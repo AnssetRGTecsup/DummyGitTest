@@ -1,13 +1,33 @@
-Villanueva.
+waVillanueva.
 Said.
 Perez.
 
 Cordova .
+<<<<<<< HEAD
+Jose.wawawawa
+Cordova w
+Jose de día y Maria de noche. :V:V
+>>>...
+Salas Córdova Sebastian Andre
+<<<<<<< HEAD
+AdrianAndia999
+Sulca Marlowawawa
+=======
 Adri Marlo
+<<<<<<< HEAD
 ANVaa
 AdrianAdia999 
 <<<<<<<HEAD
 Cordova w 
+=======
+>>>>>>> 9637d7d0a407cbece59904827fe8fdc65c6b2059
+ANVA
+waaaaaaaaaaaa
+AdrianAndia999 
+<<<<<<< HEAD
+Cordova wano
+Sulca Marlo 
+>>>>>>> 2ab91088dfff3e04f4bbaf6eb9c3deea468d5543
 ANVATI 
 =======
 Cordova
