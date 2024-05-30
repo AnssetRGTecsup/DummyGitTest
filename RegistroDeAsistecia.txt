@@ -1,4 +1,12 @@
 Villanueva
 Said CARROLLO
 AdrianAndia999
+<<<<<<< HEAD
+Cordova
+=======
+<<<<<<< HEAD
+Sulca Marlo
+=======
 ANVATI el conquistador de madrastras
+>>>>>>> 8d846be1694b2e7afcf744ba55141dc665f2d338
+>>>>>>> 5bc5fdc789c37ecf2778e8c7a2e6145f099df852
