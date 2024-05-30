@@ -2,17 +2,28 @@ Villanueva
 Said
 Perez
 Cordova 
-Jose de día y Maria de noche
+Jose
 Salas Córdova Sebastian Andre
-AdrianAndia999 el huano que se deja robar
+<<<<<<< HEAD
+AdrianAndia999
+Cordova
+Sulca Marlo
+ANVATI
+waaaaaaaaaaaaaaa
+Villanueva 
+AdrianAndia999 
 <<<<<<< HEAD
 Cordova wano
 Sulca Marlo 
-ANVATI el amante de joma y comelon de hombres
+ANVATI 
 =======
-Cordova X Brando
-Sulca Marlo chipi
-ANVATI el conquistador de señoras
+Cordova
+Sulca Marlo 
+ANVATI 
+<<<<<<< HEAD
+=
+Cordova
+Sulca Marlo 
 .
 .
 .
@@ -47,3 +58,6 @@ d.sa
 da.
 
 >>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
+=======
+Anvati el minero, locrero , creador de tuneles.
+>>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
