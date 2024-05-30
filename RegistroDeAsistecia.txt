@@ -1,16 +1,54 @@
 Villanueva
 Said
 Perez
+<<<<<<< HEAD
+Cordova 
+Jose
+=======
 Cordova _.vgi
 Jose de día y Maria de noche
+>>>
 Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
 Cordova
 Sulca Marlo
-ANVATI el conquistador de hombres negros de 3 metros cuadrado al cubo
+ANVATI
 waaaaaaaaaaaaaaa
+<<<<<<< HEAD
+Villanueva 
+AdrianAndia999 
+<<<<<<< HEAD
+Cordova wano
+Sulca Marlo 
+ANVATI 
+=======
+Cordova
+Sulca Marlo 
+ANVATI 
+<<<<<<< HEAD
+=
+Cordova
+Sulca Marlo 
+=======
 Villanueva guano
+<<<<<<< HEAD
+AdrianAndia999 
+Cordova X Brando
+Cordova X 
+Cordova X Brand
+Cordova X 
+Cordova X Brando
+Cordova X Bran
+Sulca Marlo chipi
+<<<<<<< HEAD
+<<<<<<< HE
+=======
+=======
+ANVATI el conquistador de jo
+
+
+=======
 AdrianAndia999 el huano que se deja robar
 <<<<<<< HEAD
 dsasdsad
@@ -41,7 +79,28 @@ ANVATI el conquistador de señoras
 <<<<<<< HEAD
 .
 .
+<<<<<<< HEAD
 
+=======
+.
+.
+.
+.
+.
+>>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
+.
+.
+.
+.
+.
+.
+.
+-.
+.
+.
+.
+.
+>>>>>>> 2b573d1762ca42a9afe25905689a89d52b6b4838
 .
 .
 .da
@@ -55,6 +114,13 @@ sa.dsa
 d.sa
 d.sa
 da.
+<<<<<<< HEAD
+
+>>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
+=======
+Anvati el minero, locrero , creador de tuneles.
+>>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
+=======
 insanidad elogrinbaoiheagoihaegoerikganogieaoge
 lol >dota2
 <<<<<<< HEAD
@@ -73,6 +139,10 @@ lol >dota2
 >>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
 >>>>>>> 97bc7a3ca2cce10211ea92ef158d0afef304752e
+<<<<<<< HEAD
+>>>>>>> 79053063900b0628b0c5d406fb21d382d46ed83a
+=======
 
 
 GANE CAUSA GAAAAAAAAAAAAAA
+>>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
