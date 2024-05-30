@@ -11,10 +11,8 @@ Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
 Sulca Marlo
-ggagaaaaaaaaaaa
 ANVA
-waaaaaaaaaaaaaa
-<<<<<<< HEA
+waaaaaaaaaaaa
 Villanueva 
 AdrianAndia999 
 <<<<<<< HEAD
@@ -23,22 +21,6 @@ Sulca Marlo
 ANVATI 
 =======
 Cordova
-Sulca Marlo 
-ANVATI 
-<<<<<<< HEAD
-=
-Cordova
-Sulca Marlo 
-=======
-Villanueva guano
-<<<<<<< HEAD
-AdrianAndia999 
-Cordova X Brando
-Cordova X 
-Cordova X Brand
-Cordova X 
-Cordova X Brando
-Cordova X Bran
 Sulca Marlo chipi
 <<<<<<< HEAD
 <<<<<<< HE
