@@ -31,5 +31,12 @@ insanidad elogrinbaoiheagoihaegoerikganogieaoge
 
 =======
 Anvati el minero, locrero , creador de tuneles.
+<<<<<<< HEAD
+:V :V :V :V :v :v :V :V :V :V :V :V :V :V
+<<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD
+Null.Reference/Exetion.Chepe.System32
+
+=======
 >>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
+>>>>>>> 97bc7a3ca2cce10211ea92ef158d0afef304752e
