@@ -14,6 +14,7 @@ Villanueva guano
 AdrianAndia999 el huano que se deja robar
 <<<<<<< HEAD
 dsasdsad
+<<<<<<< HEAD
 =======
 Cordova X Brando 
 Cordova X Brando
@@ -23,13 +24,16 @@ wazaaaaa
 Cordova X Brando
 Cordova X Brando
 Cordova X Brando
+=======
+>>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
 Sulca Marlo chipi
 <<<<<<< HEAD
 <<<<<<< HEAD
-ANVATI el conquistador de jomas
-aea
-=======
-=======
+ANVATI el conquistador de jomas 
+XD
+lol >dota2
+lol >dota2
+lol >dota2
 ANVATI el conquistador de jomas
 pvp o miedo joma
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
@@ -37,23 +41,7 @@ ANVATI el conquistador de señoras
 <<<<<<< HEAD
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
--.
-.
-.
-.
-.
+
 .
 .
 .da
@@ -68,11 +56,11 @@ d.sa
 d.sa
 da.
 insanidad elogrinbaoiheagoihaegoerikganogieaoge
-
+lol >dota2
 <<<<<<< HEAD
 >>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
 =======
-
+lol >dota2
 =======
 Anvati el minero, locrero , creador de tuneles.
 <<<<<<< HEAD
@@ -80,7 +68,7 @@ Anvati el minero, locrero , creador de tuneles.
 <<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD
 Null.Reference/Exetion.Chepe.System32
 >>>>>>> ec666f5b324f780ec8fb06a19d55d10dfb52f202
-
+lol >dota2
 =======
 >>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
