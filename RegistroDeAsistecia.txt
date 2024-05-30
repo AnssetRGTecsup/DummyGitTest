@@ -2,6 +2,7 @@ waVillanueva.ww
 Said.wwawwawa
 awawwawaawwawa
 El pepe mas grandel mundo
+<<<<<<< HEAD
 AndresQsawdawdawwwwwawwaaw
 Cordova .dwadadwad
 <<<<<<< HEADwww
@@ -69,9 +70,25 @@ ANVATI el conquistador de señoras
 .
 .
 .
+=======
+AndresQs
+Cordova .
+<<<<<<< HEADa
+Jose.wawawawaa
+AdrianAdia999 aaa
+<<<<<<< HEADa
+Sulca Marlo chipia
+<<<<<<< HEAD
+ANVATI el conquistador de jomas a
+XDaa
+pvp o miedo jomaaa
+>>>>>>> ef9b1b9be15a1db3de4afd2a0a2aa6eb2eeb722a
 .
 >>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
+.a
+.a
 .
+<<<<<<< HEAD
 .
 .
 .
@@ -92,11 +109,17 @@ ANVATI el conquistador de señoras
 d.sa
 d.sad.sad
 sa.d
+=======
+.aa
+.a
+.dsaa
+d.sad.sada
+>>>>>>> ef9b1b9be15a1db3de4afd2a0a2aa6eb2eeb722a
 sa.dsa
 .dsa
 d.sa
 d.sa
-da.
+da.a
 <<<<<<< HEAD
 
 >>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
