@@ -1,22 +1,11 @@
-Villanueva
-Said
-Perez
-<<<<<<< HEAD
-Cordova 
-Jose
-=======
-Cordova _.vgi
-Jose de día y Maria de noche
->>>
-Salas Córdova Sebastian Andre
-<<<<<<< HEAD
-AdrianAndia999
-Cordova
-Sulca Marlo
-ANVATI
-waaaaaaaaaaaaaaa
-<<<<<<< HEAD
-Villanueva 
+Villanueva.
+Said.
+Perez.
+
+Cordova .
+Adri Marlo
+ANVA
+waaaaaaaaaaaa
 AdrianAndia999 
 <<<<<<< HEAD
 Cordova wano
@@ -24,22 +13,6 @@ Sulca Marlo
 ANVATI 
 =======
 Cordova
-Sulca Marlo 
-ANVATI 
-<<<<<<< HEAD
-=
-Cordova
-Sulca Marlo 
-=======
-Villanueva guano
-<<<<<<< HEAD
-AdrianAndia999 
-Cordova X Brando
-Cordova X 
-Cordova X Brand
-Cordova X 
-Cordova X Brando
-Cordova X Bran
 Sulca Marlo chipi
 <<<<<<< HEAD
 <<<<<<< HE
@@ -140,9 +113,13 @@ lol >dota2
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
 >>>>>>> 97bc7a3ca2cce10211ea92ef158d0afef304752e
 <<<<<<< HEAD
+.
+=======
+<<<<<<< HEAD
 >>>>>>> 79053063900b0628b0c5d406fb21d382d46ed83a
 =======
 
+>>>>>>> 745eea62242014a05141e3cfe10698027dad86a0
 
 GANE CAUSA GAAAAAAAAAAAAAA
 >>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
