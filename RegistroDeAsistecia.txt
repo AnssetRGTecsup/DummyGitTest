@@ -4,12 +4,10 @@ Perez.
 
 Cordova .
 Adri Marlo
-ANVA
-waaaaaaaaaaaa
-AdrianAndia999 
-<<<<<<< HEAD
-Cordova wano
-Sulca Marlo 
+ANVaa
+AdrianAdia999 
+<<<<<<<HEAD
+Cordova w 
 ANVATI 
 =======
 Cordova
