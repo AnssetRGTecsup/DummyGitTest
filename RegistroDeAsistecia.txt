@@ -6,7 +6,7 @@ Cordova .
 Jose.
 Cordova _.vgi
 Jose de día y Maria de noche.
->>>
+>>>...
 Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
