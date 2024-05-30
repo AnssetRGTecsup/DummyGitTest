@@ -3,17 +3,20 @@ Said.
 Perez.
 
 Cordova .
+<<<<<<< HEAD
 Jose.wawawawa
 Cordova _.vgiwawa
-Jose de día y Maria de noche.
+Jose de día y Maria de noche. :V:V
 >>>...
 Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
 Sulca Marlowawawa
+=======
+Adri Marlo
+>>>>>>> 9637d7d0a407cbece59904827fe8fdc65c6b2059
 ANVA
 waaaaaaaaaaaa
-Villanueva 
 AdrianAndia999 
 <<<<<<< HEAD
 Cordova wano
