@@ -1,21 +1,19 @@
 Villanueva
 Said
 Perez
-<<<<<<< HEAD
+
 Cordova 
 Jose
-=======
 Cordova _.vgi
 Jose de día y Maria de noche
 >>>
 Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
-Cordova
 Sulca Marlo
-ANVATI
-waaaaaaaaaaaaaaa
-<<<<<<< HEAD
+ANVA
+waaaaaaaaaaaaaa
+<<<<<<< HEA
 Villanueva 
 AdrianAndia999 
 <<<<<<< HEAD
