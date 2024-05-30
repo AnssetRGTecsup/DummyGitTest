@@ -1,33 +1,60 @@
-Villanueva
-Said
-Perez
+Villanueva.
+Said.
+Perez.
+
+Cordova .
+Jose.
 Cordova _.vgi
-Jose de día y Maria de noche
+Jose de día y Maria de noche.
+>>>
 Salas Córdova Sebastian Andre
 <<<<<<< HEAD
 AdrianAndia999
-Cordova
 Sulca Marlo
-ANVATI el conquistador de hombres negros de 3 metros cuadrado al cubo
-waaaaaaaaaaaaaaa
+ANVA
+waaaaaaaaaaaaaa
+<<<<<<< HEA
+Villanueva 
+AdrianAndia999 
+<<<<<<< HEAD
+Cordova wano
+Sulca Marlo 
+ANVATI 
+=======
+Cordova
+Sulca Marlo 
+ANVATI 
+<<<<<<< HEAD
+=
+Cordova
+Sulca Marlo 
+=======
 Villanueva guano
+<<<<<<< HEAD
+AdrianAndia999 
+Cordova X Brando
+Cordova X 
+Cordova X Brand
+Cordova X 
+Cordova X Brando
+Cordova X Bran
+Sulca Marlo chipi
+<<<<<<< HEAD
+<<<<<<< HE
+=======
+=======
+ANVATI el conquistador de jo
+
+
+=======
 AdrianAndia999 el huano que se deja robar
 <<<<<<< HEAD
 dsasdsad
-=======
-Cordova X Brando 
-Cordova X Brando
-Cordova X Brando
-Cordova X Brando
-Cordova X Brando
-Cordova X Brando
 Sulca Marlo chipi
 <<<<<<< HEAD
 <<<<<<< HEAD
-ANVATI el conquistador de jomas
-aea
-=======
-=======
+ANVATI el conquistador de jomas 
+XD
 ANVATI el conquistador de jomas
 pvp o miedo joma
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
@@ -40,6 +67,7 @@ ANVATI el conquistador de señoras
 .
 .
 .
+>>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
 .
 .
 .
@@ -65,6 +93,13 @@ sa.dsa
 d.sa
 d.sa
 da.
+<<<<<<< HEAD
+
+>>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
+=======
+Anvati el minero, locrero , creador de tuneles.
+>>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
+=======
 insanidad elogrinbaoiheagoihaegoerikganogieaoge
 
 <<<<<<< HEAD
@@ -83,6 +118,14 @@ Null.Reference/Exetion.Chepe.System32
 >>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
 >>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
 >>>>>>> 97bc7a3ca2cce10211ea92ef158d0afef304752e
+<<<<<<< HEAD
 .
+=======
+<<<<<<< HEAD
+>>>>>>> 79053063900b0628b0c5d406fb21d382d46ed83a
+=======
+
+>>>>>>> 745eea62242014a05141e3cfe10698027dad86a0
 
 GANE CAUSA GAAAAAAAAAAAAAA
+>>>>>>> 0cacee3bc7ef113fb4656ce841db789aa49c5828
