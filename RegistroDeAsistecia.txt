@@ -2,11 +2,13 @@ Villanueva
 Said CARROLLO
 AdrianAndia999
 <<<<<<< HEAD
+=======
+Said
+Perez
 Cordova
-=======
-<<<<<<< HEAD
-Sulca Marlo
-=======
-ANVATI el conquistador de madrastras
->>>>>>> 8d846be1694b2e7afcf744ba55141dc665f2d338
->>>>>>> 5bc5fdc789c37ecf2778e8c7a2e6145f099df852
+Jose de día y Maria de noche
+Salas Córdova Sebastian Andre
+AdrianAndia999 el huano que se deja robar
+Cordova wano
+Sulca Marlo chipi
+ANVATI el conquistador de jomas
