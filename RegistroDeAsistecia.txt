@@ -10,6 +10,7 @@ Cordova
 Sulca Marlo
 ANVATI
 waaaaaaaaaaaaaaa
+<<<<<<< HEAD
 Villanueva 
 AdrianAndia999 
 <<<<<<< HEAD
@@ -24,13 +25,25 @@ ANVATI
 =
 Cordova
 Sulca Marlo 
-.
-.
-.
-.
-.
-.
-.
+=======
+Villanueva guano
+AdrianAndia999 
+Cordova X Brando
+Cordova X 
+Cordova X Brand
+Cordova X 
+Cordova X Brando
+Cordova X Bran
+Sulca Marlo chipi
+<<<<<<< HEAD
+<<<<<<< HE
+=======
+=======
+ANVATI el conquistador de jomas6723
+ANVATI el conquistador de señoras
+<<<<<<< HEA1d383
+
+
 .
 .
 .
@@ -56,8 +69,28 @@ sa.dsa
 d.sa
 d.sa
 da.
+<<<<<<< HEAD
 
 >>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
 =======
 Anvati el minero, locrero , creador de tuneles.
 >>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
+=======
+insanidad elogrinbaoiheagoihaegoerikganogieaoge
+
+<<<<<<< HEAD
+>>>>>>> 80e0e7a971b592d97b4104dbc5c2b2a3f9d86c09
+=======
+
+=======
+Anvati el minero, locrero , creador de tuneles.
+<<<<<<< HEAD
+:V :V :V :V :v :v :V :V :V :V :V :V :V :V
+<<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD<<<<<<< HEAD
+Null.Reference/Exetion.Chepe.System32
+
+=======
+>>>>>>> a2a3e12ce2400b18df5fc1c566926906abf4ef52
+>>>>>>> 86fdda63bf3dde972958b7b6eef9130a8d596723
+>>>>>>> 97bc7a3ca2cce10211ea92ef158d0afef304752e
+>>>>>>> 79053063900b0628b0c5d406fb21d382d46ed83a
